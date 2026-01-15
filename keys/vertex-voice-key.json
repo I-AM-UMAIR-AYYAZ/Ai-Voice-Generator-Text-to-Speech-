@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shopifyauth0",
+  "private_key_id": "e02f43b2ee6e0c57b9a6424847cb16024a7a22dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCO7G+VAv9+H2Lp\nL/Pm5FrpH8FD48G6CeK06bqBnvp09i9plzM6mC1omeWDznpnA25dPiLIK+w1j7T6\n9wxSYX7j3p3qCD88uz+nbmONRbNOtGnENWEy69MpTWQoYmCfY0CDy7P36zfUlUqq\n6DHaDB+98nFiO9sQzEMrnK0W42VcNuSE65u1Rl25JpwMD0i0aG4KABW3mhwoPYLS\nUpyOiXMvaEbQLTHu5w14y0I7HFnJU1e4pjr67CzIrB0ZdRxvYDQUh/op+EIT7MPl\nx5ip2AmykOjbmm77p42G7kXn9ArN+vSzySAzFC3Fynz8z+GwbMALHSEuXcjpFRI9\nG1BhCpqnAgMBAAECggEABoi4UzYstbiRSOWN1NpPblqqzG6ZrpEsIabmhW2IuBcs\nihBvtvflFOP68mCFXQydm5AEfrqZ/8WJpHLt8nLi87T7lYr5+nikYNmy8xmi0xrR\naQx4XJ/GasbPKOonzlxMbe9pU2YYCn/RcZMlpaPUlwEB/lfhMdk8yujMoFVrZAtM\nP7XC5Z4ixAD8BClb+u2XdrpRs25ZOh7ZhFkJ2Ji3Z+wYKRgjm+EdaNE7b4MQVRvt\n21h29ao8/f88f6l6lRDI3HpFMxmvO+7fcy/uzc4SDUakbkfLmhtRrMbl2Xap4Ap2\nos6g9K+gFVgV1TiAGOKDfCirqjC2JQvcmCUjNkshlQKBgQDB/SWm7iAa5iXSugck\nXp5L56yjayIWHl0wGtp57YtQg27hzLGNvdxdsM5M5ywP2sS9exOOOLusLy1sZVwN\nN/V94s5Pn8lHn3Ya3h1mx/33IvFyVovRsjMxVtvGj38Vt0rbX1fI1djELyFS8zPa\n0oQ15QkPX1lmHxYj6/T5I4KofQKBgQC8nGvG1Z1rqwXpRxdwMp+0xNPjDBVsdVPx\njTo61x1+HKT0wSdroIZs6fttXjS91YdM0gQdzVnttC0X0BUNHozaK+6yU3tSNWXW\njSoeBmdK8A6BnqC3hrHwqheZVPeDWOB8rSb0kNUZuxoTWtnf0K8MRvXhdchypSQd\naNN1oqMc8wKBgD4nY9b2WOcFcnzwCbXHcySS2CeL/eHkXKs7D2EdkRN86RwDv6fQ\nezixm4fcUavKxlqHgp6A4vCqNP2UBEhf85IgB0ZPxefi2a6GGBmEXoS+d2nQ/P90\n/x4B3GzkMS2+Cof7Jl881TUWfLDdJ3InHSE/fwWj4TrtHuTnhxgEHqrpAoGBAJjC\nuCga651Ar1D5W2psFh37LQI/zzpA7PQ/RmJRyHlUCeaSarMpGLct643xNxZp02PM\n1bitkaCMxdj7l5FApSQvYOzd4Iv847aaLvqShSaUt6sUJ2d9mLErkmGGB9JCMc/J\nDjwW8gIdIEl80+oKwzxWXN923hq81jtbo6krSKExAoGAVkV059zGmwdV33m3+UNb\n5IUiN534Qh8GNObYqA6FxlLCnv26oOquOkbO4fwdZiCy98LRHRFtjefeKmjVIX2u\nBp4uhkaDDk53jkflcu/TYHbqVOko7B6LFQIkqZWh2B+bjvahKERky1YkhCDwCyHT\n5FpDwIrXNI74q/3ttNS+NIg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-voice-app@shopifyauth0.iam.gserviceaccount.com",
+  "client_id": "107162372683250867688",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-voice-app%40shopifyauth0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
